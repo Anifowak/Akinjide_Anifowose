@@ -1,8 +1,8 @@
 - ## **👋 Hi, I’m Akinjide Samuel Anifowose**
 ---
 - ### **👀 Interests:**
-- 🪱Host-Pathogen interactions
-- 🌍Infectious diseases modeling
+- Host-Pathogen interactions
+- Infectious diseases modeling
 - Cancer Biology
 - Molecular Cell Biology
 
