@@ -1,4 +1,4 @@
-- ## **👋 Hi, I’m Akinjide Samuel Anifowose**
+- ## **👋 Hi, I’m Akinjide Samuel Anifowose,**
 ---
 - ### **👀 Interests:**
 - Host-Pathogen interactions
@@ -7,9 +7,9 @@
 - Molecular Cell Biology
 ---
 - ### **🌱 Currently learning:**
-- Advanced R programming,
+- Advanced R and Python programming,
 - Advanced Command Lines (Linux, Bash)
-- Bioinformatics Workflow System Management (Galaxy)
+- Bioinformatics Workflow System Management (Galaxy, Nextflow and Snakemake)
 - Frontend Bioinformatics using R Shiny
 ---
 - ### **💞️ Looking to collaborate on:**
